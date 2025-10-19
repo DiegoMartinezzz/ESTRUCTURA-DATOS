@@ -1,3 +1,5 @@
+#MENU RECURSIVIDAD
+#DIEGO ANTONIO MARTINEZ JUANILLO
 class Recursivos:
     # 1. Factorial
     def factorial(self, n):
@@ -291,4 +293,5 @@ class MenuRecursivos:
         self.obj.permutaciones(lista)
 
 obj=MenuRecursivos()
+
 obj.ejecutar()
